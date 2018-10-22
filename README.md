@@ -1,3 +1,3 @@
 # JavaScriptStudyGuide
 
-My JavaScript study guide.
+My JavaScript study Notes.
